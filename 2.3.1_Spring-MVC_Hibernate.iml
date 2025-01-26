@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" isTestSource="false" />
+    </content>
+  </component>
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="initializer web.config.AppInit servlet context" name="MVC dispatcher initializer servlet context" removed="true">
+          <dependency>initializer web.config.AppInit root context</dependency>
+          <file>file://$MODULE_DIR$/src/main/java/web/config/WebConfig.java</file>
+        </fileset>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/src/main/java/web/config/WebConfig.java</file>
+          <file>file://$MODULE_DIR$/src/main/java/web/config/AppConfig.java</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+</module>
